@@ -1,6 +1,13 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"Jc",
+    "subTitle":"记录生活",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "homeUrl":"https://xooo.eu.org",
+    "startSite":"01/07/2025",
+    "onePageListNum":15,
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
     "GMEEK_VERSION":"last"
 }
