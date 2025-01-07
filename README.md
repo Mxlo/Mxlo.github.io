@@ -1,6 +1,6 @@
-# Blog Title :link: https://mxlo.github.io 
-### :page_facing_up: [1](https://mxlo.github.io/tag.html) 
+# Jc :link: https://xooo.eu.org 
+### :page_facing_up: [1](https://xooo.eu.org/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 1137 
-### :alarm_clock: 2025-01-07 15:54:51 
+### :alarm_clock: 2025-01-07 16:20:33 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
